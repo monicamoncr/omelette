@@ -1,6 +1,10 @@
-#recipe
+# Omelette
 
-#ingredients
-
+## Ingredients
+* three eggs
+* spinach
+* feta cheese
+ 
 #steps
+
 
